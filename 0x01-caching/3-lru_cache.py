@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-Task 3: LRU Caching
-
 This module implements the LRUCache class,
 which inherits from BaseCaching.
 LRUCache uses the least recently used
